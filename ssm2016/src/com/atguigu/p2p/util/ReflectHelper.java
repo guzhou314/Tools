@@ -4,12 +4,12 @@ import java.lang.reflect.Field;
 
 /**
  * @author Administrator
- *	反射工具
+ *	鍙嶅皠宸ュ叿
  */
 public class ReflectHelper {
 	
 	/**
-	 * 获取obj对象fieldName的Field
+	 * 鑾峰彇obj瀵硅薄fieldName鐨凢ield
 	 * @param obj
 	 * @param fieldName
 	 * @return
@@ -26,7 +26,7 @@ public class ReflectHelper {
 	}
 
 	/**
-	 * 获取obj对象fieldName的属性值
+	 * 鑾峰彇obj瀵硅薄fieldName鐨勫睘鎬у�
 	 * @param obj
 	 * @param fieldName
 	 * @return
@@ -53,7 +53,7 @@ public class ReflectHelper {
 	}
 
 	/**
-	 * 设置obj对象fieldName的属性值
+	 * 璁剧疆obj瀵硅薄fieldName鐨勫睘鎬у�
 	 * @param obj
 	 * @param fieldName
 	 * @param value
